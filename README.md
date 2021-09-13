@@ -15,7 +15,7 @@ This was the Assignment from Elite Techno group. In this, I have to solve the fo
 7. Which event is most popular in terms on number of players? (Top 5)
 8. Which sport is having most female Gold Medalists? (Top 5)
 
-## what is implemented:-
+## What is implemented:-
 
 For Data Analysis, Pandas is used. The raw data of summer olympic and questions is given from our instructor. We have to give the answers which are mentioned above and also we have to plot graph for the same.
 <br><br>
